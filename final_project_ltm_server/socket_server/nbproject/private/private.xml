@@ -3,9 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/class/laptrinhmang/final_project_ltm/final_project_ltm_server/socket_server/src/controller/ServerRun.java</file>
-            <file>file:/D:/class/laptrinhmang/final_project_ltm/final_project_ltm_server/socket_server/src/controller/UserDatabase.java</file>
-            <file>file:/D:/class/laptrinhmang/final_project_ltm/final_project_ltm_server/socket_server/src/controller/ServerThread.java</file>
+            <file>file:/D:/class/laptrinhmang/test/ltm/final_project_ltm_server/socket_server/src/controller/ServerRun.java</file>
+            <file>file:/D:/class/laptrinhmang/test/ltm/final_project_ltm_server/socket_server/src/controller/UserDatabase.java</file>
+            <file>file:/D:/class/laptrinhmang/test/ltm/final_project_ltm_server/socket_server/src/controller/ServerThread.java</file>
         </group>
     </open-files>
 </project-private>

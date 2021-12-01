@@ -214,9 +214,8 @@ public class ServerThread extends Thread {
             ServerThread st;  
             while(clients.hasMoreElements()) {
                 st = clients.nextElement();
-                System.out.println(st.clientRoom);
                 if(st.clientRoom.equals(requestUser)) {
-                    System.out.println(st.clientName);
+                    st.clientRoom = "";
                     ServerThread st_receiverUser = listUser.get(st.clientName);
                     sendToSpecificClient(st_receiverUser, "DESTROY_ROOM|");  
                     break;
